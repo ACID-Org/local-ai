@@ -171,7 +171,7 @@ education, and controlled laboratory environments.
 
 The initial architecture is:
 
-``
+``` 
                          ACID AI
                             │
               ┌─────────────┴─────────────┐
@@ -191,11 +191,11 @@ The initial architecture is:
                     │             │             │
                     ▼             ▼             ▼
                    Nmap         HTTP          ffuf
-``
+``` 
 
 The infrastructure layer currently consists of:
 
-``
+``` 
                     ┌──────────────┐
                     │   Terminal   │
                     └──────┬───────┘
@@ -222,13 +222,13 @@ The infrastructure layer currently consists of:
                     │ NVIDIA RTX   │
                     │     4050     │
                     └──────────────┘
-``
+``` 
 
 ## Project Structure
 
 The following structure represents the planned architecture:
 
-``
+``` 
 local-ai/
 ├── app/
 │   ├── main.py
@@ -264,7 +264,7 @@ local-ai/
 ├── compose.yml
 ├── README.md
 └── .gitignore
-``
+``` 
 
 This structure is a target architecture. Components will be added
 incrementally as the project evolves.
