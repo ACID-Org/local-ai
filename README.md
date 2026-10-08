@@ -1,4 +1,6 @@
-#                  ACID - AI 
+<div align="center">
+
+# ACID AI 
 
 > **Cybersecurity Intelligence & Automation**
 
