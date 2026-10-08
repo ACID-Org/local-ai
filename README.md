@@ -1,6 +1,6 @@
 # ACID AI
 
-ACID AI is a local AI platform focused on cybersecurity analysis,
+**ACID AI** is a local AI platform focused on cybersecurity analysis,
 decision-making, and controlled security automation.
 
 The project is designed to run locally, using open-source AI models,
