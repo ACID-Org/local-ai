@@ -1,9 +1,9 @@
 # ACID AI 🐦‍🔥
 
-### Cybersecurity Intelligence & Automation
+> **Cybersecurity Intelligence & Automation**
 
-> A local AI platform for cybersecurity analysis, decision-making,
-> and controlled security automation.
+A local AI platform for cybersecurity analysis, decision-making,
+and controlled security automation.
 
 ---
 
